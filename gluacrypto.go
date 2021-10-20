@@ -1,8 +1,8 @@
 package gluacrypto
 
 import (
-	crypto "github.com/tengattack/gluacrypto/crypto"
-	"github.com/yuin/gopher-lua"
+	crypto "github.com/edwardext/gluacrypto/crypto"
+	lua "github.com/yuin/gopher-lua"
 )
 
 func Preload(L *lua.LState) {

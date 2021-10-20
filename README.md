@@ -8,7 +8,7 @@ A native Go implementation of crypto library for the [GopherLua](https://github.
 
 ```go
 import (
-	"github.com/tengattack/gluacrypto"
+	"github.com/edwardext/gluacrypto"
 )
 
 // Bring up a GopherLua VM

@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/edwardext/gluacrypto"
+	crypto "github.com/edwardext/gluacrypto/crypto"
+	"github.com/edwardext/gluacrypto/luautil"
 	"github.com/stretchr/testify/assert"
-	"github.com/tengattack/gluacrypto"
-	crypto "github.com/tengattack/gluacrypto/crypto"
-	"github.com/tengattack/tgo/luautil"
 	lua "github.com/yuin/gopher-lua"
 )
 

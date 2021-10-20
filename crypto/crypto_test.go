@@ -3,8 +3,8 @@ package gluacrypto_crypto_test
 import (
 	"testing"
 
+	"github.com/edwardext/gluacrypto"
 	"github.com/stretchr/testify/assert"
-	"github.com/tengattack/gluacrypto"
 	lua "github.com/yuin/gopher-lua"
 )
 
